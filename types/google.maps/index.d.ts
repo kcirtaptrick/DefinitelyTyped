@@ -13663,6 +13663,8 @@ declare namespace google.maps.places {
    * Access by calling `const {AutocompleteService} = await
    * google.maps.importLibrary("places")`. See
    * https://developers.google.com/maps/documentation/javascript/libraries.
+   *
+   * @deprecated
    */
   export class AutocompleteService {
     /**
